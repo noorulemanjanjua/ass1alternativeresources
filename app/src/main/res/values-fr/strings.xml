@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">alternativeres</string>
+    <string name = "hello_world" >Bonjour le monde</string>
+    <string name = "t1" >J\'aime Poulets</string>
+    <string name = "t2" >Je mange Chevaux</string>
+</resources>
+

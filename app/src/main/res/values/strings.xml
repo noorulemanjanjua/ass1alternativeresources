@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">alternativeres</string>
+    <string name="hello_world">hello world</string>
+    <string name = "t1" >I like chicken</string>
+    <string name = "t2" >I eat mangoes</string>
+
+</resources>
